@@ -34,12 +34,12 @@ I do coding in my spare time, as I have school
 
 ## Projects
 <h2>Things that I'm working on:</h2>
-<img alt="That Unknown Rhythm Game" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=turg&theme=tokyonight">
-<img alt="Damage Vignette" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=damagevignette&theme=tokyonight">
+<a href="https://github.com/keishispl/turg" target="_blank"><img alt="That Unknown Rhythm Game" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=turg&theme=tokyonight"></a>
+<a href="https://github.com/keishispl/damagevignette" target="_blank"><img alt="Damage Vignette" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=damagevignette&theme=tokyonight"></a>
 
 <h2>Karu Minecraft Server related stuff:</h2>
-<img alt="That Unknown Rhythm Game" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=karu&theme=tokyonight">
-<img alt="Damage Vignette" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=karupack&theme=tokyonight">
+<a href="https://github.com/keishispl/karu" target="_blank"><img alt="Karu MC Server Website" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=karu&theme=tokyonight"></a>
+<a href="https://github.com/keishispl/karupack" target="_blank"><img alt="Custom Karu MC Server Texture Pack" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=karupack&theme=tokyonight"></a>
 
 <a href="https://discord.com/servers/karu-dal-season-410613670322634754">Join the Official Karu Discord Server</a><br>
 <a href="https://github.com/BulzyKrown">BulzyKrown's Github Page (Owner of Karu)</a>
