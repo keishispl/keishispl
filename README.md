@@ -32,10 +32,16 @@ I do coding in my spare time, as I have school
 <li>Minecraft Texture Pack Creator</li>
 <li>An Artist with Lack of Ideas</li>
 
-## Projects
+# Projects
 <h2>Things that I'm working on:</h2>
 <a href="https://github.com/keishispl/turg" target="_blank"><img alt="That Unknown Rhythm Game" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=turg&theme=tokyonight"></a>
 <a href="https://github.com/keishispl/damagevignette" target="_blank"><img alt="Damage Vignette" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=damagevignette&theme=tokyonight"></a>
+
+<h2>My Discord Bot Repositories:</h2>
+<a href="https://github.com/keishispl/maidkoucianabot" target="_blank"><img alt="Open Source Code for MaidKouciana" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=maidkoucianabot&theme=tokyonight"></a>
+<a href="https://github.com/keishispl/maidkouciana" target="_blank"><img alt="MaidKouciana Website" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=maidkouciana&theme=tokyonight"></a>
+
+<a href="https://keishispl.github.io/maidkouciana" target="_blank">MaidKouciana Wiki</a>
 
 <h2>Karu Minecraft Server related stuff:</h2>
 <a href="https://github.com/keishispl/karu" target="_blank"><img alt="Karu MC Server Website" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=karu&theme=tokyonight"></a>
