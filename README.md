@@ -35,4 +35,6 @@ I do coding in my spare time, as I have school
 <li>Minecraft Texture Pack Creator</li>
 <li>An Artist with Lack of Ideas</li>
 
+
+
 <p>Still here? Well, thank you for being here!</p>
