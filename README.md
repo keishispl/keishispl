@@ -25,6 +25,7 @@ I do coding in my spare time, as I have school
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keishispl&theme=tokyonight"></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=keishispl&theme=tokyonight&show_icons=true"></a>
+
 </p>
 
 <h2>More About Me</h2>
