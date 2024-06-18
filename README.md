@@ -6,7 +6,7 @@ I do coding in my spare time, as I have school
 
 <h2>Socials</h2>
 <li>Card: <a href="https://keishispl.github.io/en" target="_blank">https://keishispl.github.io/en</a></li>
-<li>Twitter: <a href="https://twitter.com/keishispl" target="_blank">https://twitter.com/keishispl</a></li>
+<li>Twitter (X): <a href="https://twitter.com/keishispl" target="_blank">https://twitter.com/keishispl</a></li>
 <li>Bluesky: <a href="https://bsky.app/profile/keishispl.bsky.social" target="_blank">https://bsky.app/profile/keishispl.bsky.social</a></li>
 <li>Youtube: <a href="https://youtube.com/@keishispl" target="_blank">https://youtube.com/@keishispl</a></li>
 <li>Discord: <b>keishispl</b></li>
@@ -22,7 +22,9 @@ I do coding in my spare time, as I have school
 <img height="40px" src="lang/Java.png">
 <img height="40px" src="lang/Skript.png">
 <br><br>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keishispl&theme=tokyonight">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keishispl&theme=tokyonight"></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=keishispl&theme=tokyonight&show_icons=true"></a>
 </p>
 
 <h2>More About Me</h2>
@@ -32,22 +34,4 @@ I do coding in my spare time, as I have school
 <li>Minecraft Texture Pack Creator</li>
 <li>An Artist with Lack of Ideas</li>
 
-# Projects
-<h2>Things that I'm working on:</h2>
-<a href="https://github.com/keishispl/turg" target="_blank"><img alt="That Unknown Rhythm Game" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=turg&theme=tokyonight"></a>
-<a href="https://github.com/keishispl/damagevignette" target="_blank"><img alt="Damage Vignette" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=damagevignette&theme=tokyonight"></a>
-
-<h2>My Discord Bot Repositories:</h2>
-<a href="https://github.com/keishispl/maidkoucianabot" target="_blank"><img alt="Open Source Code for MaidKouciana" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=maidkoucianabot&theme=tokyonight"></a>
-<a href="https://github.com/keishispl/maidkouciana" target="_blank"><img alt="MaidKouciana Website" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=maidkouciana&theme=tokyonight"></a>
-
-<a href="https://keishispl.github.io/maidkouciana" target="_blank">MaidKouciana Wiki</a>
-
-<h2>Karu Minecraft Server related stuff:</h2>
-<a href="https://github.com/keishispl/karu" target="_blank"><img alt="Karu MC Server Website" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=karu&theme=tokyonight"></a>
-<a href="https://github.com/keishispl/karupack" target="_blank"><img alt="Custom Karu MC Server Texture Pack" src="https://github-readme-stats.vercel.app/api/pin/?username=keishispl&repo=karupack&theme=tokyonight"></a>
-
-<a href="https://discord.com/servers/karu-dal-season-410613670322634754" target="_blank">Join the Official Karu Discord Server</a><br>
-<a href="https://github.com/BulzyKrown" target="_blank">BulzyKrown's Github Page (Owner of Karu)</a>
-
-<p>Still here? Well, thank you for reading this! It means a lot to me.</p>
+<p>Still here? Well, thank you for being here!</p>
