@@ -7,8 +7,6 @@ I do coding in my spare time, as I have school
 <h2>Socials</h2>
 <li>Card: <a href="https://keishispl.github.io/en" target="_blank">https://keishispl.github.io/en</a></li>
 <li>Twitter (X): <a href="https://twitter.com/keishispl" target="_blank">https://twitter.com/keishispl</a></li>
-<li>Bluesky: <a href="https://bsky.app/profile/keishispl.bsky.social" target="_blank">https://bsky.app/profile/keishispl.bsky.social</a></li>
-<li>Youtube: <a href="https://youtube.com/@keishispl" target="_blank">https://youtube.com/@keishispl</a></li>
 <li>Discord: <b>keishispl</b></li>
 
 # About Me
@@ -29,12 +27,6 @@ I do coding in my spare time, as I have school
 </p>
 
 <h2>More About Me</h2>
-<li>English / Chinese / Chinese Simplified / Japanese</li>
-<li>Passionate Discord Bot Developer</li>
-<li>Minecraft Java Mod Developer</li>
-<li>Minecraft Texture Pack Creator</li>
+<li>English / Chinese / Simplified Chinese / Japanese</li>
+<li>A Developer that makes random stuff</li>
 <li>An Artist with Lack of Ideas</li>
-
-
-
-<p>Still here? Well, thank you for being here!</p>
