@@ -12,9 +12,9 @@ I do coding in my spare time, as I have school
 <img height="40px" src="lang/Python.png">
 <img height="40px" src="lang/Java.png">
 <br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keishispl&theme=tokyonight"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keishispl&theme=tokyonight"></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=keishispl&theme=tokyonight&show_icons=true"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=keishispl&theme=tokyonight&show_icons=true"></a>
 
 </p>
 
