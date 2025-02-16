@@ -4,12 +4,7 @@ I do coding in my spare time, as I have school
 
 # About Me
 <h2>Skills</h2>
-<img height="40px" src="lang/HTML5.png">
-<img height="40px" src="lang/CSS3.png">
-<img height="40px" src="lang/NodeJS.png">
-<img height="40px" src="lang/JavaScript.png">
-<img height="40px" src="lang/Python.png">
-<img height="40px" src="lang/Java.png">
+<img height="40px" src="lang/HTML5.png"><img height="40px" src="lang/CSS3.png"><img height="40px" src="lang/NodeJS.png"><img height="40px" src="lang/JavaScript.png"><img height="40px" src="lang/Python.png"><img height="40px" src="lang/Java.png">
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keishispl&theme=tokyonight"></a>
 
