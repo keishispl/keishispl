@@ -3,7 +3,7 @@ I'm a self-taught developer<br>
 I do coding in my spare time, as I have school
 
 # About Me
-<h2 align=center>Skills</h2>
+<h2 align="center">Skills</h2>
 <p align="center">
 <img height="40px" src="lang/HTML5.png">
 <img height="40px" src="lang/CSS3.png">
@@ -12,9 +12,9 @@ I do coding in my spare time, as I have school
 <img height="40px" src="lang/Python.png">
 <img height="40px" src="lang/Java.png">
 <br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keishispl&theme=tokyonight"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keishispl&theme=tokyonight"></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=keishispl&theme=tokyonight&show_icons=true"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=keishispl&theme=tokyonight&show_icons=true"></a>
 
 </p>
 
