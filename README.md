@@ -1,7 +1,7 @@
-# Hello! I'm Keishi
+# Hello! I'm Keishi (Kacey)
 I code stuff
 
-<img draggable="false" src="https://count.getloli.com/get/@keishispl.github?theme=rule34&darkmode=0">
+![keishispl.github](https://count.getloli.com/@keishispl.github?theme=rule34&darkmode=0)
 
 &nbsp;
 
