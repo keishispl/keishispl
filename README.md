@@ -2,8 +2,8 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img draggable="false" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keishispl&theme=tokyonight"></a>
 
-一度にいろいろやてます。うん、コードします。<br>
-*かっこいいじゃないか？(草)*
+一度にいろいろやてます。<br>
+うん、コードします。*かっこいいじゃないか？(草)*
 
 I do a lot of different things at once.<br>
 Yes, I code. *Isn't that cool? lol*
