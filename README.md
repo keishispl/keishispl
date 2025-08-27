@@ -3,7 +3,7 @@
 一度にいろいろやてます<br>
 音ゲー、東方とメロンパン🍈🍞が好き
 
-I'm Keishi / Kacey<br>
+I'm Keishi (You can call me Kacey)<br>
 I do a lot of different things at once.<br>
 I like rhythm games, touhou, and melon bread 🍈🍞
 
