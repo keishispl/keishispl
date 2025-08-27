@@ -2,10 +2,16 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img draggable="false" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keishispl&theme=tokyonight"></a>
 
-一度にいろいろやてます。<br>
-うん、コードします。*かっこいいじゃないか？(草)*
+日本語、繁體中文、English
 
-I do a lot of different things at once.<br>
-Yes, I code. *Isn't that cool? lol*
+Java、JavaScript、Python、HTML、CSS
+
+音ゲー、東方とメロンパン🍈🍞が好き。<br>
+I like rhythm games, touhou, and melon bread 🍈🍞.
+
+一度にいろいろやてます。<br>
+I do a lot of different things at once.
+
+[カードサイト<br>Card Site](https://keishispl.github.io/beta)
 
 ![keishispl.github](https://count.getloli.com/@keishispl.github?theme=rule34&darkmode=0)
