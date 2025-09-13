@@ -26,7 +26,7 @@ I like rhythm games, touhou, and melon bread 🍈🍞
 [Youtube - @keishispl](https://youtube.com/@keishispl)<br>
 [Modrinth - keishispl](https://modrinth.com/user/keishispl)
 
-[カードサイト<br>Card Site](https://keishispl.github.io/beta)
+[カードサイト<br>Card Site](https://keishispl.github.io)
 
 ## 🎲 Counter
 
